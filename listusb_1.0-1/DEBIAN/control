@@ -1,0 +1,7 @@
+Package: listusb
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Bruno Rios <brunorios89@gmail.com>
+Description: listusb is an example application to list USB devices
